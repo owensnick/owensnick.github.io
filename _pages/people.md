@@ -26,17 +26,17 @@ keh218@exeter.ac.uk
 Affiliate group members
 --- 
 **Jess Hopkinson**\
-Post-doc research associate\
+Post-doc research associate
 
 
 Previous group Members
 ---
 
 **Sergio Quintanilla Payet**\
-PTY Student 2021-2022\
+PTY Student 2021-2022
 
 **Michaelis Vasiliadis**\
-PTY Student 2020-2021\
+PTY Student 2020-2021
 
 
 
