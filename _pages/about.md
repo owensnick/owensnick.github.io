@@ -14,4 +14,5 @@ We focus on studying congential, developmental defects causing glucose regulatio
 
 We're based at in the Department of Clinical and Biomedical Sciences, University of Exeter.
 
-![University of Exeter](/images/uoe.png) ![Wellcome](/images/wellcome-logo-white.png)
+![University of Exeter](/images/uoe.png){: style="float: left"}
+![Wellcome](/images/wellcome-logo-white.png)
