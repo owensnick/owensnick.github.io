@@ -13,3 +13,5 @@ We study how sequence changes in regulatory regions of the genome and in transcr
 We focus on studying congential, developmental defects causing glucose regulation disorders of neonatal diabetes and congenital hyperinsulinism. We study the developing and adult pancreas to gain insights. We also study other conditions such as congenital heart disease and common diseases such as type 2 diabetes.
 
 We're based at in the Department of Clinical and Biomedical Sciences, University of Exeter.
+
+![University of Exeter](/images/uoe.png)
