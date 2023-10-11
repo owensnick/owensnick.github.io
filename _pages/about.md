@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "About me"
+excerpt: "Gene Regulatory Defects in Disease Group @ Exeter"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,5 +14,10 @@ We focus on studying glucose regulation disorders from rare, congenital, develop
 
 
 We're based at in the Department of Clinical and Biomedical Sciences, University of Exeter.
+
+ - [Research](/research/)
+ - [People](/people/)
+ - [Publications](/publications/)
+ - [Contact](/contact/)
 
 ![University of Exeter, Wellcome, Research England](/images/uoe_funding.png)
