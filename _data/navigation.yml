@@ -4,12 +4,11 @@ main:
     url: /research/
   
   - title: "People"
-    url /people/
+    url: /people/
 
   - title: "Publications"
     url: /publications/
 
   - title: "Contact"
     url: /contact/
-  
   
