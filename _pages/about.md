@@ -19,5 +19,6 @@ We're based at in the Department of Clinical and Biomedical Sciences, University
  - [People](/people/)
  - [Publications](/publications/)
  - [Contact](/contact/)
+ - [Vacancies](/vacancies/)
 
 ![University of Exeter, Wellcome, Research England](/images/uoe_funding.png)
