@@ -16,7 +16,7 @@ We are recruiting multiple positions as part of our 8 year Wellcome Career Devel
 
 Please contact Nick Owens n.d.l.owens@exeter.ac.uk for more information.
 
-**Transposeable elements, KRAB Zinc fingers, and primate specific gene regulation in human pancreas development**
+**Transposable elements, KRAB Zinc fingers, and primate specific gene regulation in human pancreas development**
 
 * Computational post-doc (fellow or associate): [Job Advert](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=077726gd8c&WVID=3817591jNg)
 
