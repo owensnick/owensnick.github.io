@@ -9,7 +9,7 @@ author_profile: true
 
 We are recruiting multiple positions as part of our 8 year Wellcome Career Development award. Adverts to follow shortly:
 
-  - Research Technician
+  - Research Technician [Job Advert](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=803754gjoq&WVID=3817591jNg&LANG=USA)
   - Lab post-doc - pancreatic differentiation and perturbation studies
   - A computational post-doc - statistical models of single-molecule footprinting data and convolutional neural networks
 

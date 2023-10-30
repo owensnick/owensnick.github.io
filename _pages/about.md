@@ -19,6 +19,6 @@ We're based at in the Department of Clinical and Biomedical Sciences, University
  - [People](/people/)
  - [Publications](/publications/)
  - [Contact](/contact/)
- - [Vacancies](/vacancies/): Adverts: [Computational post-doc](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=077726gd8c&WVID=3817591jNg), more to follow shortly.
+ - [Vacancies](/vacancies/): Adverts: [Computational post-doc](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=077726gd8c&WVID=3817591jNg), [Research Technician](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=803754gjoq&WVID=3817591jNg&LANG=USA)
 
 ![University of Exeter, Wellcome, Research England](/images/uoe_funding.png)
