@@ -7,11 +7,11 @@ author_profile: true
 
 **Understanding the *cis*-regulatory code in glucose regulation disorders**
 
-We are recruiting multiple positions as part of our 8 year Wellcome Career Development award. Adverts to follow shortly:
+We are recruiting multiple positions as part of our 8 year Wellcome Career Development award:
 
   - Research Technician [Job Advert](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=803754gjoq&WVID=3817591jNg&LANG=USA)
-  - Lab post-doc - pancreatic differentiation and perturbation studies
-  - A computational post-doc - statistical models of single-molecule footprinting data and convolutional neural networks
+  - A Lab post-doc - pancreatic differentiation and perturbation studies [Job Advert](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=590670grK9&WVID=3817591jNg)
+  - A computational post-doc - statistical models of single-molecule footprinting data and convolutional neural networks [Job Advert](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=678947grK9&WVID=3817591jNg)
 
 
 Please contact Nick Owens n.d.l.owens@exeter.ac.uk for more information.
