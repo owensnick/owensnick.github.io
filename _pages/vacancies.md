@@ -24,4 +24,4 @@ Studying primate-specific innovation of gene regulatory networks in pnacreas dev
 
 This position is part of a Wellcome Collaborator award, collaboration with Michael Imbeault, Cambridge and Timo Otonkoski & Diego Balboa, Helsinki, together with Elisa De Franco and Andrew Hattersley at Exeter.
 
-Builds of our discovery that primate specific KRAB zinc finger is necessary for pancreas development [medrxiv, accepted Nature Genetics](https://www.medrxiv.org/content/10.1101/2021.08.23.21262262v1). 
+Builds of our discovery that primate specific KRAB zinc finger is necessary for pancreas development [now out in Nature Genetics!](https://www.nature.com/articles/s41588-023-01565-x). 
