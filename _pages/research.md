@@ -5,8 +5,6 @@ author_profile: true
 
 ---
 
-We study gene regulatory defects in disease.
-
 **Understanding the sequence code underlying regulatory regions in glucose regulation disorders**
 
 We have recently been awarded a [Wellcome Career Development Award](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/uncovering-cis-regulatory-code-glucose-regulation) to study the sequence code underlying the regulatory regions. We are using sequence changes that arise in rare and common forms of diabetes and hyperinsulinism as a model to gain insights into gene regulation and disease. We study how multiple transcription factors come together to control gene expression, and how changes in regulatory sequences perturb transcription factor binding. 
