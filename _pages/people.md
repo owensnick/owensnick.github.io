@@ -19,6 +19,18 @@ n.d.l.owens@exeter.ac.uk
 Post-doc research associate\
 a.maccalman@exeter.ac.uk
 
+**Alexandre Hefren**\
+Computational Reseach Fellow\
+a.h.devasconcelos@exeter.ac.uk
+
+**Jim Lees**\
+Research Technician\
+j.d.lees@exeter.ac.uk
+
+**Katie Partidge**\
+Post-doc research associate\
+k.partridge2@exeter.ac.uk
+
 **Kathryn Hinton**\
 PhD Student\
 keh218@exeter.ac.uk

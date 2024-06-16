@@ -19,10 +19,6 @@ We're based at in the Department of Clinical and Biomedical Sciences, University
  - [People](/people/)
  - [Publications](/publications/)
  - [Contact](/contact/)
- - [Vacancies](/vacancies/):
-   - [Lab post-doc - pancreatic differentiation and gene perturbation](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=590670grK9&WVID=3817591jNg)
-   - [Computational post-doc - single-molecule footprinting and convolutional neural networks](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=678947grK9&WVID=3817591jNg)
-   - [Computational post-doc - KRAB ZNFs, TEs, and human specific gene regulation in pancreas development](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=077726gd8c&WVID=3817591jNg)
-   - [Research Technician](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=803754gjoq&WVID=3817591jNg&LANG=USA)
+ - [Vacancies](/vacancies/): We have filled all open positions. Please do [contact me](/contact/) if you're interested in joining our group.
 
 ![University of Exeter, Wellcome, Research England](/images/uoe_funding.png)
