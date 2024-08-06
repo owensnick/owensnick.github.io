@@ -43,7 +43,7 @@ We discovered that loss-of-function variants in primate-specific gene ZNF808 nec
 
 This discovery has been recently published in [Nature Genetics](https://www.nature.com/articles/s41588-023-01565-x). We're now building off this to investigate the mechanisms behind ZNF808 further, we are recruiting a computational post-doc to analyse single-cell transcriptomics and chromatin accessibility to dissect the role of ZNF808 in human development:
 
-* Computational post-doc (fellow or associate): [Job Advert](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=077726gd8c&WVID=3817591jNg)
+* Computational post-doc (fellow or associate): [Job Advert](https://tinyurl.com/mt3dv54m)
 
 This position is part of a Wellcome Collaborator award, collaboration with Michael Imbeault, Cambridge and Timo Otonkoski & Diego Balboa, Helsinki, together with Elisa De Franco and Andrew Hattersley at Exeter.
 

@@ -41,7 +41,7 @@ Affiliate group members
 Post-doc research associate
 
 
-Previous group Members
+Previous group members
 ---
 
 **Sergio Quintanilla Payet**\
