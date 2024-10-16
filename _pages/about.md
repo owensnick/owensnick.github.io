@@ -19,6 +19,6 @@ We're based at in the Department of Clinical and Biomedical Sciences, University
  - [People](/people/)
  - [Publications](/publications/)
  - [Contact](/contact/)
- - [Vacancies](/vacancies/): Computational PhD or post-doc in single-cell genomics studying primate gene regulatory networks involving ZN808: [Job Advert](https://tinyurl.com/mt3dv54m)
-
+ - [Vacancies](/vacancies/)
+ 
 ![University of Exeter, Wellcome, Research England](/images/uoe_funding.png)
