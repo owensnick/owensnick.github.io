@@ -23,6 +23,10 @@ a.maccalman@exeter.ac.uk
 Computational Reseach Fellow\
 a.h.devasconcelos@exeter.ac.uk
 
+**Haleemah Patel**\
+PTY Student\
+hp526@exeter.ac.uk
+
 **Jim Lees**\
 Research Technician\
 j.d.lees@exeter.ac.uk
@@ -34,6 +38,10 @@ k.partridge2@exeter.ac.uk
 **Kathryn Hinton**\
 PhD Student\
 keh218@exeter.ac.uk
+
+**Michaelis Vasiliadis**\
+PhD Student\
+mfv202@exeter.ac.uk
 
 Affiliate group members
 --- 
@@ -48,7 +56,7 @@ Previous group members
 PTY Student 2021-2022
 
 **Michaelis Vasiliadis**\
-PTY Student 2020-2021
+PTY Student 2020-2021 (now PhD student!)
 
 
 
