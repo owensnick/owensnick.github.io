@@ -17,11 +17,6 @@ We are using single-molecule footprinting (also known as NOMe-seq, Fiber-seq, SM
 
 We're using this and other functional genomic approaches to study transcription factors, cell-cell signalling, and more over pancreatic differentiation and in donor tissue. 
 
-We are recruiting multiple positions related to this project:
-
-  - Research Technician [Job Advert](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=803754gjoq&WVID=3817591jNg&LANG=USA)
-  - A Lab post-doc - pancreatic differentiation and perturbation studies [Job Advert](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=590670grK9&WVID=3817591jNg)
-  - A computational post-doc - statistical models of single-molecule footprinting data and convolutional neural networks [Job Advert](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=678947grK9&WVID=3817591jNg)
 
 
 Please contact Nick Owens n.d.l.owens@exeter.ac.uk for more information.
