@@ -15,6 +15,18 @@ We focus on studying glucose regulation disorders from rare, congenital, develop
 
 We're based at in the Department of Clinical and Biomedical Sciences, University of Exeter.
 
+### Green Computing in Research
+![Green DiSC](/images/greendisc.png)
+
+<img src="/images/greendisc.png" alt="Green DiSC" width="300" height="200"/>
+
+
+We are committed to sustainability in research. We are going through the process of applying for [GreenDiSC](https://www.software.ac.uk/GreenDiSC) certification in sustainable computing. This is led by PhD student [Michaelis Vasiliadis](mailto:mfv202@exeter.ac.uk), you can read more about Michaelis' work [here](https://michaelisvas.github.io/GreenDiSC_Exeter_RILD/).
+
+
+
+
+
  - [Research](/research/)
  - [People](/people/)
  - [Publications](/publications/)
